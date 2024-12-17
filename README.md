@@ -15,3 +15,5 @@ Although Alexa do not represents IA absolutely, Alexa applies some machine learn
 ## Etichs questions
 
 Teacher talked about **Midjourney**, an IA linked to art that are linked to some polemic questiond related to rights and ethics about your methodology to learn things.
+
+Teacher showed a concern about the data used to train the machine to learn. It needs to represent rightly the mass of data to analyze.
