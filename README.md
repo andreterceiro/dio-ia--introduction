@@ -24,3 +24,8 @@ Teacher showed a concern about the data used to train the machine to learn. It n
 Also teacher showed a concern about the responsibility of the information provided by IA. Maybe it tends to be biased or not accurate.
 
 Teacher also showed us that there are concerns related to the capacity of IA to replace people in jobs.
+
+
+# History
+
+Teacher talked that the main marco of start of IA were the studies of Alan Turing related to analysis if a robot can think like a human.
