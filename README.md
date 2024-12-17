@@ -31,3 +31,5 @@ Teacher also showed us that there are concerns related to the capacity of IA to 
 Teacher talked that the main marco of start of IA were the studies of Alan Turing related to analysis if a robot can think like a human.
 
 Another example related to past was the story related to Frankenstein.
+
+Marvin Misky was the founder of the laboratory to study IA in MIT. He helped the first develop of thing related to IA.
