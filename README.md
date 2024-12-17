@@ -8,4 +8,5 @@ Although Alexa do not represents IA absolutely, Alexa applies some machine learn
 - Machine learning;
 - Computing vision;
 - NLP - natural language processing;
-- Robotics - teacher example was about a robot learning a path based on obstacules of an area.
+- Robotics - teacher example was about a robot learning a path based on obstacules of an area;
+- Other sub areas.
