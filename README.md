@@ -33,3 +33,5 @@ Teacher talked that the main marco of start of IA were the studies of Alan Turin
 Another example related to past was the story related to Frankenstein.
 
 Marvin Misky was the founder of the laboratory to study IA in MIT. He helped the first develop of thing related to IA.
+
+John McCarthy developed Logic Theorist, a first system who can evaluate logic systems.
