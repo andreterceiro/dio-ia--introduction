@@ -6,3 +6,4 @@ Although Alexa do not represents IA absolutely, Alexa applies some machine learn
 ## Sub areas of IA
 
 - Machine learning;
+- Computing vision;
