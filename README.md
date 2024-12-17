@@ -10,3 +10,8 @@ Although Alexa do not represents IA absolutely, Alexa applies some machine learn
 - NLP - natural language processing;
 - Robotics - teacher example was about a robot learning a path based on obstacules of an area;
 - Other sub areas.
+
+
+## Etichs questions
+
+Teacher talked about **Midjourney**, an IA linked to art that are linked to some polemic questiond related to rights and ethics about your methodology to learn things.
