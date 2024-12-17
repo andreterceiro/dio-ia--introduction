@@ -7,3 +7,4 @@ Although Alexa do not represents IA absolutely, Alexa applies some machine learn
 
 - Machine learning;
 - Computing vision;
+- NLP - natural language processing;
