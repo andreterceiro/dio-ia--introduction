@@ -29,3 +29,5 @@ Teacher also showed us that there are concerns related to the capacity of IA to 
 # History
 
 Teacher talked that the main marco of start of IA were the studies of Alan Turing related to analysis if a robot can think like a human.
+
+Another example related to past was the story related to Frankenstein.
